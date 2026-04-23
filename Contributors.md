@@ -228,6 +228,7 @@ Anshuk
 - [Huriam11] (https://github.com/Uriambylo)
 - [Hassan Jan](https://github.com/hassan-jan)
 - Yuyanran Xiao
+- Riccardo Nini (https://github.com/riccardonini)
 - [Philip](https://github.com/Philip-b-dev)
 - Sinthujan Jayaranjan
 - [Brielle Johnston](https://github.com/briefjo)
